@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    font-weight: bold;
+    color: #2E7D32;
+    border-bottom: 2px solid #2E7D32;
+    animation: fade-in 0.5s ease-in-out;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    background-color: #2E7D32;
+    color: #FFF;
+    transition: background-color 0.3s ease;
+}
+
+.active:hover {
+    background-color: #1B5E20;
+}
+
+
