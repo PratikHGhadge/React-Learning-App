@@ -8,7 +8,7 @@ This React Learning App is a project I created while learning React. It covers s
 
 ## Features
 
-1. **Movie Displaying Page:** This page fetches movie data and displays it in the form of cards, allowing users to view detailed information about each movie.
+1. **Movie Displaying Page:** This page fetches movie data and displays it in the form of cards, allowing users to view card of movie.
 
 2. **Record Keeping Page:** Users can input a name and email, which will be stored and displayed. Additionally, users can remove the records they don't need.
 
